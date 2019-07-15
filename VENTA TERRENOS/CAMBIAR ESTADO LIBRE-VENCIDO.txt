@@ -1,0 +1,17 @@
+ declare @tabla table(id varchar(10)) 
+ declare @dias int=(select diareserva from datosempresa where id=1)
+ insert into @tabla(id) select IDTERRENO from reservadetalle where DATEDIFF(day,fechares, getdate())  > @dias and estadoreserva='vigente'
+ declare @count int = (select count(*) from @tabla)
+
+ 
+ while @count >0
+ begin
+ declare @idterreno varchar(10)=(select top(1) id from @tabla order by id)
+ --print '0' + @idterreno
+	--modificamos el terreno en la tabla terrenos
+	update terreno set estadoreserva='LIBRE' WHERE idterreno=@idterreno
+	--modificamos el terreno en la tabla detallereserva
+	update reservadetalle set estadoreserva='VENCIDO' WHERE idterreno=@idterreno
+ delete @tabla where @idterreno=id
+ set @count= (select count(*) from @tabla)
+ end

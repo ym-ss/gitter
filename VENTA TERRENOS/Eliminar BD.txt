@@ -1,0 +1,15 @@
+DROP DATABASE BDLOTES
+
+delete from cliente
+delete from coordenada
+delete from usuario
+delete from terreno
+delete from reserva
+delete from permiso
+delete from terreno
+delete from TERRENOTIPO
+delete from evento
+delete from formulario
+delete from urbanizacion
+delete from RESERVADETALLE
+delete from rol

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEGOCIO", "CLASES\NEGOCIO.csproj", "{B6291BCC-2E4C-4CCB-BDB5-BAE1FDD7BEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATOS", "DATOS\DATOS.csproj", "{9AD272BD-D4B5-4C60-8870-1BC0117FF564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRINCIPAL", "PRINCIPAL\PRINCIPAL.csproj", "{9A805817-6FA3-4658-A098-FE3EE9506AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6291BCC-2E4C-4CCB-BDB5-BAE1FDD7BEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6291BCC-2E4C-4CCB-BDB5-BAE1FDD7BEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6291BCC-2E4C-4CCB-BDB5-BAE1FDD7BEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6291BCC-2E4C-4CCB-BDB5-BAE1FDD7BEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD272BD-D4B5-4C60-8870-1BC0117FF564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD272BD-D4B5-4C60-8870-1BC0117FF564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD272BD-D4B5-4C60-8870-1BC0117FF564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD272BD-D4B5-4C60-8870-1BC0117FF564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A805817-6FA3-4658-A098-FE3EE9506AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A805817-6FA3-4658-A098-FE3EE9506AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A805817-6FA3-4658-A098-FE3EE9506AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A805817-6FA3-4658-A098-FE3EE9506AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

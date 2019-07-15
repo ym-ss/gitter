@@ -1,0 +1,98 @@
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.exe.config
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.exe
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.Properties.Resources.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.exe
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\bin\Debug\CLASES.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\bin\Debug\DATOS.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\bin\Debug\CLASES.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\bin\Debug\DATOS.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.Form1.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmcliente.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmclientes.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenotipo.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenotipos.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmurbanizacion.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmurbanizaciones.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.exe.config
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.exe
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\CLASES.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\GMap.NET.Core.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\DATOS.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\itextsharp.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\CLASES.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\bin\Debug\DATOS.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.Form1.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmacerca.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmcliente.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmclientes.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmimprimirmapa.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmreporteusuario.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmreserva.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmreservas.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmsesion.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterreno.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenos.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenotipo.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenotipos.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmurbanizacion.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmurbanizaciones.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmusuario.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmusuarios.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.Properties.Resources.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.exe
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmdatosempresa.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmpermisos.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmrol.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmroles.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmlibres.resources
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenoeliminar.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.exe.config
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.exe
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.pdb
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\CLASES.dll
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\DATOS.dll
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\GMap.NET.Core.dll
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\itextsharp.dll
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\CLASES.pdb
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\DATOS.pdb
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.csprojResolveAssemblyReference.cache
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.Form1.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmacerca.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmcliente.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmclientes.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmdatosempresa.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmimprimirmapa.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmlibres.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmpermisos.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmreporteusuario.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmreserva.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmreservas.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmrol.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmroles.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmsesion.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterreno.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenoeliminar.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenos.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenotipo.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmterrenotipos.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmurbanizacion.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmurbanizaciones.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmusuario.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.frmusuarios.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.Properties.Resources.resources
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.csproj.GenerateResource.Cache
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.exe
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.pdb
+C:\VENTA TERRENOS\PRESENTACION\PRINCIPAL\bin\Debug\PRINCIPAL.exe.config
+C:\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.exe
+C:\VENTA TERRENOS\PRESENTACION\PRINCIPAL\obj\Debug\PRINCIPAL.pdb

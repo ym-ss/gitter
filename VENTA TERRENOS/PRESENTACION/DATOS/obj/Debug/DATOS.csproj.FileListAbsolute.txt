@@ -1,0 +1,14 @@
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\DATOS\bin\Debug\DATOS.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\DATOS\obj\Debug\DATOS.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\PRESENTACION\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\DATOS\bin\Debug\DATOS.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\DATOS\obj\Debug\DATOS.dll
+C:\Users\Alfredo\Dropbox\2019 TESIS ALFREDO\Venta Terrenos\PRESENTACION\DATOS\obj\Debug\DATOS.pdb
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\DATOS\bin\Debug\DATOS.dll
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\DATOS\bin\Debug\DATOS.pdb
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\DATOS\obj\Debug\DATOS.dll
+D:\Drobox\Dropbox\2019 TESIS ALFREDO\VENTA TERRENOS\PRESENTACION\DATOS\obj\Debug\DATOS.pdb
